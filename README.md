@@ -2,9 +2,9 @@
 
 _Aqui você encontra um modelo de README em 3 idiomas_
 
-[Português](./readme-português.md)
-[Inglês](./readme-english.md)
-[Espanhol](./readme-español.md)
+* [Português](./readme-português.md)
+* [Inglês](./readme-english.md)
+* [Espanhol](./readme-español.md)
 
 
 ## Começando 🚀
