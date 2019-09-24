@@ -2,6 +2,11 @@
 
 _Aqui você encontra um modelo de README em 3 idiomas_
 
+[Português](./readme-português.md)
+[Inglês](./readme-english.md)
+[Espanhol](./readme-español.md)
+
+
 ## Começando 🚀
 
 _Você pode copiar este projeto fazendo o clonando, e utilizando um dos idiomas como referência para ínicio da documentação do seu projeto._
@@ -29,8 +34,8 @@ _Todo este documento foi feito em Markdown, abaixo coloco um link de referência
 
 _Este repositório foi inspirado e está utilizado conteúdo de outros desenvolvedores, mencionados abaixo_
 
-* **André Borali** - *Versão em português* - [andreborali] (https://github.com/andreborali)
-* **Andrés Villanueva** - *Versão em espanhol* - [villanuevand] (https://github.com/villanuevand)
+* **André Borali** - *Versão em português* - [andreborali](https://github.com/andreborali)
+* **Andrés Villanueva** - *Versão em espanhol* - [villanuevand](https://github.com/villanuevand)
 * **Billie Thompson** - *Versão em inglês* - [PurpleBooth](https://github.com/PurpleBooth)
 
 
