@@ -2,14 +2,14 @@
 
 _Aqui um parágrafo para descrever o projeto_
 
-## Começando 🚀
+## 🚀 Começando
 
 _Estas instruções te permite obter uma cópia do projeto em funcionamento em sua máquina local para desenvolvimentos e testes._
 
 Consulte ** Implantação ** para saber como implantar o projeto.
 
 
-### Pré-requisitos 📋
+### 📋 Pré-requisitos
 
 _O que você precisa para instalar o software e como instalá-lo_
 
@@ -17,7 +17,7 @@ _O que você precisa para instalar o software e como instalá-lo_
 Dê um exemplo
 ```
 
-### Instalação 🔧
+### 🔧 Instalação
 
 _Uma série de exemplos passo a passo que informam o que você precisa executar para ter um ambiente de desenvolvimento em execução_
 
@@ -35,11 +35,11 @@ terminar
 
 _Conclua com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração_
 
-## Executando os testes ⚙️
+## ⚙️ Executando os testes
 
 _Explique como executar os testes automatizados para este sistema_
 
-### Análise os testes de ponta a ponta 🔩
+### 🔩 Análise os testes de ponta a ponta
 
 _Explicar o que esses testes verificam e por quê_
 
@@ -47,7 +47,7 @@ _Explicar o que esses testes verificam e por quê_
 Dê um exemplo
 ```
 
-### E testes de estilo de codificação ⌨️
+### ⌨️ E testes de estilo de codificação
 
 _Explicar o que esses testes verificam e por quê_
 
@@ -55,11 +55,11 @@ _Explicar o que esses testes verificam e por quê_
 Dê um exemplo
 ```
 
-## Implantação 📦
+## 📦 Implantação
 
 _Adicione notas adicionais sobre como implantar_
 
-## Construído com 🛠️
+## 🛠️ Construído com
 
 _Menciona as ferramentas que você usou para criar seu projeto_
 
@@ -67,19 +67,19 @@ _Menciona as ferramentas que você usou para criar seu projeto_
 * [Maven] (https://maven.apache.org/) - Gerenciador de dependência
 * [ROMA] (https://rometools.github.io/rome/) - Usado para gerar RSS
 
-## Contribuindo 🖇️
+## 🖇️ Contribuindo
 
 Leia os detalhes no [README.md] (https://github.com/andreborali/readme-template) para obter detalhes de nosso código de conduta e o processo para nos enviar solicitações de recebimento.
 
-## Wiki 📖
+## 📖 Wiki
 
 Você pode encontrar muito mais sobre como usar este projeto em nosso [Wiki] (https://github.com/seu/projeto/wiki)
 
-## Versão 📌
+## 📌 Versão
 
 Usamos [SemVer] (http://semver.org/) para versionar. Para todas as versões disponíveis, consulte as [tags neste repositório] (https://github.com/teu/proyecto/tags).
 
-## Autores ✒️
+## ✒️ Autores
 
 _Menciona a todos aqueles que ajudaram a levantar o projeto desde o início_
 
@@ -89,11 +89,11 @@ _Menciona a todos aqueles que ajudaram a levantar o projeto desde o início_
 
 Você também pode consultar a lista de todos os [colaboradores] (https://github.com/seu/projeto/contributors) que participaram deste projeto.
 
-## Licença 📄
+## 📄 Licença
 
 Este projeto está sob Licença (Sua Licença) - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
 
-## Gratificações 🎁
+## 🎁 Gratificações
 
 * Conte aos outros sobre esse projeto 📢
 * Convide alguém da equipe para um cerveja/caipirinha.
