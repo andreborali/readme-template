@@ -1,4 +1,4 @@
-# Exemplos de Readme Pardrão
+# Exemplos de Readme Padrão
 
 _Aqui você encontra um modelo de README em 3 idiomas_
 
